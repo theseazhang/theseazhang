@@ -19,7 +19,7 @@
 </div>
 
 <div >
-<h3>😊 I am looking for a front-end web development job in Tokyo, Japan that can provide a visa. If you are an employer, please read <a href="https://rxresu.me/r/aGXfQjGI">my resume</a>.</h3>
+<h3>😊 I am looking for a front-end web development job in Tokyo, Japan that can provide a visa. If you are an employer, please read <a href="https://www.seazhang.com/resume.pdf">my resume</a>.</h3>
 </div>
 
 <br />
